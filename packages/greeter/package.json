@@ -1,0 +1,13 @@
+{
+  "name": "@ucarion/greeter",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib/*"
+  ],
+  "dependencies": {
+    "@types/react": "^16.9.25",
+    "react": "^16.13.1",
+    "typescript": "^3.8.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@ucarion/website",
+  "version": "0.0.0",
+  "dependencies": {
+    "@types/node": "^12.12.31",
+    "@types/react": "^16.9.25",
+    "@ucarion/greeter": "workspace:packages/greeter",
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3"
+  }
+}
